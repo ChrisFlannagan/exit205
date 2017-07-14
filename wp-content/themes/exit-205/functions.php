@@ -4,6 +4,7 @@ namespace exit205;
 
 use exit205\classes\post_types\Beer_Place;
 use exit205\classes\plugins\Map;
+use exit205\classes\taxonomies\Place_Type;
 
 /**
  * class Exit205
@@ -16,10 +17,11 @@ class Exit205 {
 
 	public function init() {
 		$this->classes_dir = get_stylesheet_directory() . '/classes/';
-		$this->load_classes( [ 'post_types', 'plugins' ] );
+		$this->load_classes( [ 'post_types', 'taxonomies', 'plugins' ] );
 
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue' ] );
 		add_action( 'init', [ $this, 'register_post_types' ] );
+		add_action( 'init', [ $this, 'register_taxonomies' ] );
 	}
 
 	public function enqueue() {
@@ -33,6 +35,10 @@ class Exit205 {
 
 	public function register_post_types() {
 		$beer_place = Beer_Place::init();
+	}
+
+	public function register_taxonomies() {
+		$place_type = Place_Type::init();
 	}
 
 	public function load_classes( $paths = [] ) {
