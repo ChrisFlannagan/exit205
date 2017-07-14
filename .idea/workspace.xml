@@ -2,804 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5910b6f6-fabc-4e17-a694-c3631d8c31b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/font/acf.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/font/acf.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/font/acf.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/images/spinner@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/images/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/images/sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-bg_highlight-soft_0_ffffff_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-icons_444444_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-icons_DDDDDD_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2-spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ar.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-bg_BG.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-cs_CZ.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-de_CH.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-de_DE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-de_DE_formal.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-es_ES.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-fa_IR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-fi.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-fr_FR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-he_IL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-hu_HU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-id_ID.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-it_IT.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ja.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-nb_NO.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-nl_NL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-pl_PL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-pt_BR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-pt_PT.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ro_RO.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ru_RU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-sk_SK.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-sv_SE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-tr_TR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-uk.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-zh_CN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/ajax-loader-grey.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/beaver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/bxslider/bx_loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/bxslider/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/pixel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/premium-layout.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/screenshot-getting-started.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/arrow-next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/arrow-prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/arrows-next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/arrows-prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/icons-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/icons-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/transparent-bg-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/slideshow/transparent-bg-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/spacer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/templates-preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/af.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/ar.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/cs_CZ.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/da_DK.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/de_DE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/el.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/en_GB.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/es_ES.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/es_MX.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/fa_IR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/fi.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/fr_CA.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/fr_FR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/ga.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/he_IL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/hi.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/hi_IN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/hr.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/hu_HU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/id_ID.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/it_IT.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/ja.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/ko_KR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/mr.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/ms_MY.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/nb.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/nb_NO.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/nl_NL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/no_NO.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/pl_PL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/pt_BR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/pt_PT.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/ru_RU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/sk_SK.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/sl_SI.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/sl_SL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/sv_SE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/th.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/tl.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/tr_TR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/uk.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/vi.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/zh_CN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/languages/zh_TW.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/images/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/images/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/images/sort.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-da_DK.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-de_DE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-es_ES.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-et_EE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-fa_IR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-fi.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-fr_FR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-hr.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-it_IT.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-ja.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-nl_NL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-pt_BR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-ro_RO.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-ru_RU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-sr_RS.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-sv_SE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-tr_TR.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-zh_CN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/acf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/field-group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/field-groups.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/install-network.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/install-updates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/settings-addons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/settings-info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/settings-tools.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/field-group-field-conditional-logic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/field-group-field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/field-group-fields.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/field-group-locations.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/field-group-options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/install-network.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/install-notice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/settings-addons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/settings-info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/settings-tools-export.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/views/settings-tools.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-helpers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-value.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-field-group.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/css/acf-input.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/font/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/font/acf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/font/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/3/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/select2/4/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/js/acf-field-group.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/js/acf-field-group.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/js/acf-input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/assets/js/acf-input.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/ajax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/compatibility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/fields.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/local.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/location.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/loop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/revisions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/third_party.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/updates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/core/wpml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/checkbox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/color_picker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/date_picker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/date_time_picker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/email.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/file.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/google-map.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/number.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/oembed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/output.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/page_link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/password.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/post_object.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/radio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/relationship.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/select.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/tab.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/taxonomy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/text.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/textarea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/time_picker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/true_false.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/url.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/fields/wysiwyg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/forms/attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/forms/comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/forms/post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/forms/taxonomy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/forms/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/forms/widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ar.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-bg_BG.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-cs_CZ.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-de_CH.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-de_DE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-de_DE_formal.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-es_ES.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-fa_IR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-fi.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-fr_FR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-he_IL.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-hu_HU.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-id_ID.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-it_IT.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ja.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-nb_NO.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-nl_NL.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-pl_PL.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-pt_BR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-pt_PT.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ro_RO.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-ru_RU.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-sk_SK.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-sv_SE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-tr_TR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-uk.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf-zh_CN.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/lang/acf.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/acf-pro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/admin/options-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/admin/settings-updates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/admin/views/options-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/admin/views/settings-updates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/api/api-options-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/api/api-pro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/assets/css/acf-pro-field-group.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/assets/css/acf-pro-input.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-field-group.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-field-group.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/assets/js/acf-pro-input.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/core/updates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/fields/clone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/fields/flexible-content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/fields/gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/pro/fields/repeater.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-admin-posts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-admin-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-ajax-layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-ajax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-auto-suggest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-color.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-export.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-extensions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-fonts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-icons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-import.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-importer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-loop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-module.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-photo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-activecampaign.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-aweber.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-campaign-monitor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-campayn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-constant-contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-convertkit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-drip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-email-address.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-enormail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-getresponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-godaddy-email-marketing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-hatchbuck.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-icontact-pro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-icontact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-infusionsoft.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-madmimi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-mailchimp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-mailerlite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-mailpoet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-mailrelay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-sendinblue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service-sendy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-service.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-services.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-shortcodes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-timezones.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-user-access.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder-wpcli-command.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/classes/class-fl-jsmin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/bootstrap-tour-standalone.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-admin-posts-legacy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-admin-posts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-admin-settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-export.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-layout-auto-spacing.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-layout-button-defaults.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-layout-medium.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-layout-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-layout-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-builder.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-color-picker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-icon-selector.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/fl-slideshow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/jquery.autoSuggest.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/jquery.bxslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/jquery.magnificpopup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/jquery.multiselect.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/jquery.nanoscroller.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/jquery.tiptip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/css/yui3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/extensions/fl-builder-multisite/classes/class-fl-builder-multisite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/extensions/fl-builder-multisite/fl-builder-multisite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/fl-builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/ajax-loader-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/ajax-loader.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/svg/arrow-left.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/svg/arrow-right.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/svg/hamburger-menu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/svg/pause.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/img/svg/play.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-posts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings-js-config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings-modules.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings-post-types.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings-tools.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings-upgrade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings-user-access.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings-welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/admin-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/column-css.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/column-group.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/column-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/column.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/compatibility.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/export-filters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/export.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-button.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-code.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-color.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-icon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-multiple-audios.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-multiple-photos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-ordering.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-photo-sizes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-photo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-post-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-select.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-suggest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-text.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-textarea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-time.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-timezone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-unit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field-video.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/global-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/icon-selector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/jquery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/layout-js-config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/layout-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/loop-settings-matching.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/loop-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/module-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/module.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/row-css.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/row-js.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/row-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/row-video.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/row.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/service-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/strings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/template-selector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/ui-bar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/ui-fields.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/ui-js-config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/ui-js-templates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/ui-panel-module-templates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/ui-panel-row-templates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/ui-panel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/updater-config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/updater/classes/class-fl-updater.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/updater/includes/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/updater/includes/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/updater/includes/subscriptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/updater/updater.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Account.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/ActiveCampaign.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Auth.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Automation.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Campaign.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Connector.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Contact.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Deal.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Design.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Form.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Group.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/List.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Message.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Settings.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Subscriber.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Tracking.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/User.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/Webhook.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/activecampaign/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/aweber.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/aweber_api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/aweber_collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/aweber_entry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/aweber_entry_data_array.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/aweber_response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/curl_object.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/curl_response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/oauth_adapter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/aweber/oauth_application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/class/base_classes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/class/cacert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/class/exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/class/log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/class/serialisation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/class/services_json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/class/transport.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_administrators.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_campaigns.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_clients.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_lists.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_people.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_segments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_subscribers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/campaign-monitor/csrest_templates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/convertkit/ConvertKit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/drip/Drip_API.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/Account.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/ApiClient.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/ApiException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/Contacts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/Forms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/Lists.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/Mailings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/Enormail/Rest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/enormail/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/getresponse/getresponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/godaddy-email-marketing/class-godaddy-em.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/icontact/iContactApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/icontact/iContactProApi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/infusionsoft.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/isdk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/xmlrpc-3.0/Changelog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/xmlrpc-3.0/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/xmlrpc-3.0/NEWS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/xmlrpc-3.0/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/xmlrpc-3.0/lib/xmlrpc.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/xmlrpc-3.0/lib/xmlrpc_wrappers.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/infusionsoft/xmlrpc-3.0/lib/xmlrpcs.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/madmimi/MadMimi.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/madmimi/Spyc.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Campaigns.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Conversations.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Ecomm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Exceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Folders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Goal.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Lists.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Mobile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Neapolitan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Reports.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Templates.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/Mailchimp/Vip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailchimp/mailchimp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailerlite/ML_Rest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/mailerlite/ML_Rest_Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/ReCaptcha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/RequestMethod.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/RequestMethod/Curl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/RequestMethod/CurlPost.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/RequestMethod/Post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/RequestMethod/Socket.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/RequestMethod/SocketPost.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/RequestParameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/ReCaptcha/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/recaptcha/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/sendinblue/Mailin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/includes/vendor/sendy/SendyPHP.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-beautify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-chromevox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-elastic_tabstops_lite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-emmet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-error_marker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-keybinding_menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-language_tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-linking.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-modelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-old_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-searchbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-settings_menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-spellcheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-split.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-static_highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-statusbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-textarea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-themelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/ext-whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/keybinding-emacs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/keybinding-vim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/mode-abap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/mode-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/mode-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/mode-javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/theme-chrome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/worker-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/worker-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/ace/worker-javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/bootstrap-tour-standalone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-admin-posts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-admin-settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-ajax-layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-export.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-preview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-responsive-editing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-simulate-media-query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder-tour.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-builder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-color-picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-gallery-grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-icon-selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-lightbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-slideshow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-slideshow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/fl-stylesheet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.actual.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.autoSuggest.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.bxslider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.fitvids.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.imagesloaded.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.infinitescroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.magnificpopup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.migrate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.mosaicflow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.multiselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.nanoscroller.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.simulate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.tiptip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.ui.sortable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/jquery.wookmark.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/js/yui3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/json/dashicons.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/json/font-awesome.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/json/foundation-icons.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/audio/audio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/audio/css/frontend.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/audio/includes/frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/audio/js/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/html/html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/html/includes/frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/html/js/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/photo/css/frontend.responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/photo/includes/frontend.js.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/photo/includes/frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/photo/js/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/photo/photo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/rich-text/includes/frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/rich-text/rich-text.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/sidebar/includes/frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/sidebar/includes/settings-general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/sidebar/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/video/css/frontend.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/video/css/frontend.responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/video/includes/frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/video/js/frontend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/video/js/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/video/video.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/widget/includes/frontend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/widget/includes/settings-general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/widget/includes/settings-text-widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/widget/js/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/modules/widget/widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/beaver-builder-lite-version/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/extended-cpts/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/extended-cpts/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/extended-cpts/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/extended-cpts/extended-cpts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/extended-taxos/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/extended-taxos/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/extended-taxos/extended-taxos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/box-factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/box.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/box.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/box.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/column-factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/column-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/column-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/column.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/dropdown-factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/dropdown-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/dropdown-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/dropdown.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field-delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field-generic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field-order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field-title-attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field-title-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field-title-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field-title.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/field.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/mustache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/mustache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/column-create.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/column-delete-all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/column-delete.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/column-title.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/connection-types-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/connection-types.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/tab-create-post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/tab-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/tab-search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/templates/table-row.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/tools-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/admin/tools.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/command.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/debug-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-da_DK.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-de_DE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-es_ES.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-et_EE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-fa_IR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-fi.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-fr_FR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-hr.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-it_IT.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-ja.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-nl_NL.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-pt_BR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-ro_RO.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-ru_RU.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-sr_RS.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-sv_SE.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-tr_TR.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts-zh_CN.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/lang/posts-to-posts.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/posts-to-posts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/.php_cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/.styleci.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Autoloader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Cache/AbstractCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Cache/FilesystemCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Cache/NoopCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Compiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Context.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Engine.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception/InvalidArgumentException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception/LogicException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception/RuntimeException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception/SyntaxException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception/UnknownFilterException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception/UnknownHelperException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Exception/UnknownTemplateException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/HelperCollection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/LambdaHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Loader/ArrayLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Loader/CascadingLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Loader/FilesystemLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Loader/InlineLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Loader/MutableLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Loader/StringLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Logger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Logger/AbstractLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Logger/StreamLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/mustache/mustache/src/Mustache/Tokenizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/connection-type-factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/connection-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/determinate-connection-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/directed-connection-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/direction-strategy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/indeterminate-connection-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/indeterminate-directed-connection-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/item-any.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/item-attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/item-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/item-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/item.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/list-renderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/query-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/query-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/reciprocal-connection-type.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/shortcodes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/side-attachment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/side-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/side-user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/side.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/storage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/url-query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/util.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/lib-posts-to-posts/widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/AdminPage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/BoxesPage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/Cron.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/Forms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/Hooks.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/Options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/PostMetabox.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/Table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/Util.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/Widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/load-composer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/posts-to-posts/vendor/scribu/scb-framework/load.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place_Meta.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/page-map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/templates/content-map.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place.php" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place_Meta.php" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place_Meta.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/exit-205/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/exit-205/functions.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -812,41 +21,99 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="wp-config-sample.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-config-sample.php">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="375">
+              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding>
+                <element signature="e#27#69#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="41" column="2" lean-forward="false" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Beer_Place_Meta.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="map.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="881">
+              <caret line="75" column="78" lean-forward="true" selection-start-line="75" selection-start-column="78" selection-end-line="75" selection-end-column="78" />
+              <folding>
+                <element signature="e#43#85#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api-template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="1567" column="9" lean-forward="false" selection-start-line="1567" selection-start-column="9" selection-end-line="1567" selection-end-column="9" />
+              <folding>
+                <marker date="1498758144000" expanded="true" signature="5791:5892" ph="SELECT optio... ${$wpdb-&gt;options}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api-value.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-value.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="230" column="9" lean-forward="false" selection-start-line="230" selection-start-column="9" selection-end-line="230" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map/init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-map.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/page-map.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#63#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content-map.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/templates/content-map.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Beer_Place_Meta.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place_Meta.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+            <state relative-caret-position="208">
+              <caret line="35" column="39" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -862,26 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="field-group.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/admin/field-group.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="601" column="8" lean-forward="true" selection-start-line="601" selection-start-column="8" selection-end-line="601" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -892,10 +139,16 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/exit-205/style.css" />
         <option value="$PROJECT_DIR$/wp-config.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/classes/content/map.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/classes/templates/content-map.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/templates/content-map.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/page-map.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place_Meta.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map/init.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -973,6 +226,10 @@
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shaped-blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -993,6 +250,58 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="exit-205" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exit205.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exit205.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exit-205" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exit205.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exit205.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exit-205" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1022,24 +331,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="post_types" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exit205.dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exit205.dev" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -1058,11 +349,23 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exit-205" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="advanced-custom-fields-pro" />
+              <option name="myItemId" value="map" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1081,14 +384,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="advanced-custom-fields-pro" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1102,6 +397,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/exit-205" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -1211,12 +509,12 @@
       <workItem from="1499976672927" duration="2533000" />
       <workItem from="1499989312991" duration="243000" />
       <workItem from="1499989629754" duration="209000" />
-      <workItem from="1499989872078" duration="1333000" />
+      <workItem from="1499989872078" duration="9572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4318000" />
+    <option name="totallyTimeSpent" value="12557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="418" y="126" width="1925" height="1212" extended-state="0" />
@@ -1339,14 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/acf.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1379,14 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
@@ -1395,10 +677,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shaped-blog/page-full.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/templates/content-map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-value.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="230" column="9" lean-forward="false" selection-start-line="230" selection-start-column="9" selection-end-line="230" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="1567" column="9" lean-forward="false" selection-start-line="1567" selection-start-column="9" selection-end-line="1567" selection-end-column="9" />
+          <folding>
+            <marker date="1498758144000" expanded="true" signature="5791:5892" ph="SELECT optio... ${$wpdb-&gt;options}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="e#27#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/classes/post_types/Beer_Place_Meta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        <state relative-caret-position="208">
+          <caret line="35" column="39" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/page-map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/exit-205/classes/plugins/map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="75" column="78" lean-forward="true" selection-start-line="75" selection-start-column="78" selection-end-line="75" selection-end-column="78" />
+          <folding>
+            <element signature="e#43#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>

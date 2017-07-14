@@ -15,6 +15,8 @@ class Beer_Place_Meta {
 
 	const ADDRESS = 'beer_place_address';
 	const WEBSITE = 'beer_place_website';
+	const LAT = 'beer_place_lat';
+	const LNG = 'beer_place_lng';
 
 	public function get_value( $post_id, $key ) {
 		return get_field( $post_id, $key );
@@ -30,6 +32,8 @@ class Beer_Place_Meta {
 			'fields' => [
 				$this->get_address_field(),
 				$this->get_website_field(),
+				$this->get_lat_field(),
+				$this->get_lng_field(),
 			],
 			'location' => [
 				[
@@ -57,6 +61,24 @@ class Beer_Place_Meta {
 			'key' => self::WEBSITE,
 			'label' => 'Website',
 			'name' => 'website',
+			'type' => 'text',
+		];
+	}
+
+	public function get_lat_field() {
+		return [
+			'key' => self::LAT,
+			'label' => 'Latitude',
+			'name' => 'latitude',
+			'type' => 'text',
+		];
+	}
+
+	public function get_lng_field() {
+		return [
+			'key' => self::LNG,
+			'label' => 'Longitude',
+			'name' => 'longitude',
 			'type' => 'text',
 		];
 	}
