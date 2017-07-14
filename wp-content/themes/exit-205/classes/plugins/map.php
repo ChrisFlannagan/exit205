@@ -39,7 +39,6 @@ class Map {
 
 	public static function localize_markers( $markers = [] ) {
 		$posts = get_posts( [ 'post_type' => Beer_Place::POST_TYPE ] );
-
 		/**
 		 * @var $post \WP_Post
 		 */
@@ -54,6 +53,7 @@ class Map {
 					'lng' => $geo['lng'],
 					'address' => get_field( Beer_Place_Meta::ADDRESS, $post->ID ),
 					'website' => get_field( Beer_Place_Meta::WEBSITE, $post->ID ),
+					'thumbnail' => get_the_post_thumbnail_url( $post->ID, 'thumbnail' ),
 				];
 			}
 		}
