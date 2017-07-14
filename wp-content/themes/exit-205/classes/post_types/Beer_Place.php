@@ -3,10 +3,17 @@
 namespace exit205\classes\post_types;
 
 /**
- * Beer_Place Custom Post Type
+ * Class Beer_Place
+ * @package exit205\classes\post_types
+ *
+ * @author Chris Flannagan
  */
-
 class Beer_Place {
+
+	const NAME = 'Beer Place';
+	const POST_TYPE = 'beer-place';
+
+	public $meta;
 
 	public function __construct() {
 		$labels = array(
@@ -34,7 +41,7 @@ class Beer_Place {
 			'show_ui'            => true,
 			'show_in_menu'       => true,
 			'query_var'          => true,
-			'rewrite'            => array( 'slug' => 'beer-place' ),
+			'rewrite'            => array( 'slug' => self::POST_TYPE ),
 			'capability_type'    => 'post',
 			'has_archive'        => true,
 			'hierarchical'       => false,
@@ -42,7 +49,8 @@ class Beer_Place {
 			'supports'           => array( 'title', 'editor', 'author', 'thumbnail', 'excerpt', 'comments' )
 		);
 
-		register_post_type( 'beer-place', $args );
+		register_post_type( self::POST_TYPE, $args );
+		$this->meta = Beer_Place_Meta::init();
 	}
 
 	public static function init() {

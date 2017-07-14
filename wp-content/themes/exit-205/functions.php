@@ -13,7 +13,8 @@ class Exit205 {
 	private $classes_dir;
 
 	public function __construct() {
-		$this->classes_dir = get_stylesheet_directory() . '/classes/post_types/';
+		$this->classes_dir = get_stylesheet_directory() . '/classes/';
+		$this->load_classes( 'post_types' );
 
 		add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_styles' ] );
 		add_action( 'init', [ $this, 'register_post_types' ] );
@@ -25,12 +26,21 @@ class Exit205 {
 	}
 
 	public function register_post_types() {
-		require_once $this->classes_dir . 'Beer_Place.php';
 		$beer_place = Beer_Place::init();
 	}
 
 	public static function init() {
 		return new Exit205();
+	}
+
+	public function load_classes( $path ) {
+		/** @var $classes array - grab all php files from directory and include */
+		$classes = glob( $this->classes_dir . $path . '/*.php' );
+		foreach( $classes as $class ) {
+			if ( is_file( $class ) ) {
+				include $class;
+			}
+		}
 	}
 
 }
